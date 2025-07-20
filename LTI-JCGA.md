@@ -980,8 +980,6 @@ UC17 ..> UC18 : <<include>>
 
 ## 4. Modelo de Datos (ERD)
 
-![Diagrama de Entidad-Relación](diagramas/ERD.png)
-
 ```mermaid
 erDiagram
     USERS {
@@ -1103,8 +1101,6 @@ erDiagram
 ```
 
 ## 5. Diagrama C4 - Nivel 2: Contenedores
-
-![Diagrama C4 - Contenedores](diagramas/Diagrama%20C4%20-%20Contenedores.png)
 
 ```mermaid
 graph TB
